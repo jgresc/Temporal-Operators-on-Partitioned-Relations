@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "glob.h": "c",
+        "oip.h": "c",
+        "rel.h": "c",
+        "math.h": "c",
+        "seqscan.h": "c",
+        "btree.h": "c",
+        "segtree.h": "c",
+        "string.h": "c",
+        "getopt.h": "c",
+        "nodeheapam.h": "c",
+        "nodepartitionam.h": "c",
+        "buffer.h": "c",
+        "partition.h": "c",
+        "nodesort.h": "c",
+        "limits.h": "c",
+        "unistd.h": "c"
+    }
+}
