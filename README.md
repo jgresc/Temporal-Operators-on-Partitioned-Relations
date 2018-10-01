@@ -9,7 +9,7 @@ the relations are split into partitions, in which no tuple overlaps. After this,
 
 
 ## Disclaimer
-My contribution to this project is mostly found in the `main.c` file and starts at line 795. 
+My contribution to this project is mostly found in the `main.c` file starting at line 795. 
 
 ## Getting Started
 
